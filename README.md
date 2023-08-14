@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning Specification**
 
-- 👨‍💻 All of my projects are available at [www.github.com/muhammad-qadeerr](www.github.com/muhammad-qadeerr)
+- 👨‍💻 All of my projects are available at [https://github.com/muhammad-qadeerr?tab=repositories](https://github.com/muhammad-qadeerr?tab=repositories)
 
 - 💬 Ask me about **ML, Python, JavaScript, Dotnet**
 
