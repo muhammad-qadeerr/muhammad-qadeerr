@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-qadeerr&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-qadeerr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-qadeerr" alt="muhammad-qadeerr" /></a> </p>
-
-- 🌱 I’m currently learning **Machine Learning Specifically Computer Vision**
+- 🌱 I’m currently learning **Machine Learning Specification**
 
 - 👨‍💻 All of my projects are available at [www.github.com/muhammad-qadeerr](www.github.com/muhammad-qadeerr)
 
@@ -17,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/mqadeer37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mqadeer37" height="30" width="40" /></a>
 <a href="https://kaggle.com/mqadeer037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mqadeer037" height="30" width="40" /></a>
 <a href="https://instagram.com/heyqadeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyqadeer" height="30" width="40" /></a>
 </p>
