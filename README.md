@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-qadeerr&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-qadeerr" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning Specification**
+- 🌱 I’m currently learning **Machine Learning Specialization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammad-qadeerr?tab=repositories](https://github.com/muhammad-qadeerr?tab=repositories)
 
