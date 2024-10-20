@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **muhammadqadeerr456@gmail.com**
 
-- ⚡ Fun fact **I think I am a perpetual student.**
+- ⚡ Fun fact **Music speeds up coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
