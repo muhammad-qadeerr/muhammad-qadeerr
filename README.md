@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-qadeerr&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-qadeerr" /> </p>
 
-- 🌱 I’m currently a working with **.NET, AngularJs, Microsoft Azure, SQL, .NET Apis**
+- 🌱 I’m currently a working with **.NET, AngularJs, Microsoft Azure, SQL, .NET APIs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammad-qadeerr?tab=repositories](https://github.com/muhammad-qadeerr?tab=repositories)
 
