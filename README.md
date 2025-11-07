@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-qadeerr&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-qadeerr" /> </p>
 
-- 🌱 I’m currently a working with **.NET, AngularJs, Microsoft Azure, SQL, .NET APIs**
+- 🌱 I'm currently a working with **.NET, AngularJs, Microsoft Azure, SQL, .NET APIs**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/muhammad-qadeerr?tab=repositories)
 
@@ -28,8 +28,8 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
     </a>
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
