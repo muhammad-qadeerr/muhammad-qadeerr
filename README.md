@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammad-qadeerr?tab=repositories](https://github.com/muhammad-qadeerr?tab=repositories)
 
-- 💬 Ask me about **ML, Python, JavaScript, Dotnet**
+- 💬 Ask me about **.NET, Python, JavaScript, SQL**
 
 - 📫 How to reach me **muhammadqadeerr456@gmail.com**
 
