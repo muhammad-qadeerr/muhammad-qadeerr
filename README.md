@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently a working with **.NET, AngularJs, Microsoft Azure, SQL, .NET APIs**
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/muhammad-qadeerr?tab=repositories)
+- 👨‍💻 All of my projects are available at [Git](https://github.com/muhammad-qadeerr?tab=repositories) & [Portfolio](https://mqadeer.vercel.app/)
 
 - 💬 Ask me about **.NET, Python, JavaScript, SQL**
 
